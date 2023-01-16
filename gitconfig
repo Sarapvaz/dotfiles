@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ssarapvaz@gmail.com
+	name = Sara Vaz
